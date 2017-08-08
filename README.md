@@ -1,0 +1,3 @@
+# hoja_de_vida
+este es un ejercicio para next u...
+trabajo para evaluacion final.
